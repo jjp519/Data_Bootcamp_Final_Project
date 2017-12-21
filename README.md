@@ -14,4 +14,5 @@ Submitting the same or substantially similar work in multiple courses, either in
 I acknowledge that a failure to abide by NYU Stern Honor Code will result in a failing grade for the project and course.
 
 Project Description
+
 I looked at International Tourism data to evaluate how it has changed throughout the years. Has there been a shift in which countries are more popular travel destinations of late (or has growth been relatively similar across all countries)? This project includes combining inbound tourism data with GDP per capita to match up with each destination, as well as using the data to calculate relative change to see if certain countires have become significantly more (or less) popular, and visualising that in a few different figures.
